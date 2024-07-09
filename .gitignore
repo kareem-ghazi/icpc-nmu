@@ -37,3 +37,6 @@
 /icpc-nmu.vcxproj.user
 /.gitignore
 /.gitignore
+/CMakeLists.txt
+/cmake-build-debug/
+/main.cpp
