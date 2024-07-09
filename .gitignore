@@ -39,4 +39,4 @@
 /CMakeLists.txt
 /cmake-build-debug/
 /main.cpp
-.idea
+/.idea/
