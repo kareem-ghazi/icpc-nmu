@@ -30,7 +30,7 @@
 *.exe
 *.out
 *.app
-/.idea
+*/.idea
 /.vs/icpc-nmu
 /icpc-nmu.sln
 /icpc-nmu.vcxproj
