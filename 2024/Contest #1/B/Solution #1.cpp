@@ -1,3 +1,9 @@
+/*
+ * CONTEST: CONTEST #1
+ * PROBLEM: B - SOFT DRINKING
+ * SOLVER: KAREEMGH
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -9,6 +15,7 @@ int main() {
     int n, k, l, c, d, p, nl, np;
     cin >> n >> k >> l >> c >> d >> p >> nl >> np;
 
+    // Read the note in the problem and follow the sequence.
     long long one = k * l;
     long long two = one / nl;
     long long three = c * d;
