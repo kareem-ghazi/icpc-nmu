@@ -1,7 +1,7 @@
 
 # icpc-nmu
 
-This repository for solutions to all contests hosted by **New Mansoura University**. These solutions are grouped by contests which are furthur grouped by the year they were hosted in. Note that some of these solutions may have been generated using AI or were outsourced from other websites.
+This repository contains the solutions to all contests hosted by **New Mansoura University**. These solutions are grouped by contests which are furthur grouped by the year they were hosted in. Note that some of these solutions may have been generated using AI or were outsourced from other websites.
 
 The solutions that are here are the ones that only gave an **ACCEPTED** verdict in the contest.
 
