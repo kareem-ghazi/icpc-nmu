@@ -18,7 +18,7 @@ The following is the table of contents for what's currently in the repository:
     - [Contest #2](https://github.com/kareem-ghazi/icpc-nmu/tree/main/2024/Contest%20%232)
     - Team Contest #2
     - Training Contest #1 (Frequency Array, Prefix Sum, Vector, Pair, Struct)
-    - Contest #3
+    - [Contest #3](https://github.com/kareem-ghazi/icpc-nmu/tree/main/2024/Contest%20%233)
     - Team Contest #3
 
 
