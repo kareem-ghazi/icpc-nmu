@@ -12,7 +12,7 @@ The solutions that are here are the ones that only gave an **ACCEPTED** verdict 
 The following is the table of contents for what's currently in the repository:
 
 - [2024](https://github.com/kareem-ghazi/icpc-nmu/tree/main/2024)
-    - Team Formation Contest
+    - [Team Formation Contest](https://github.com/kareem-ghazi/icpc-nmu/tree/main/2024/Team%20Formation%20Contest)
     - [Contest #1](https://github.com/kareem-ghazi/icpc-nmu/tree/main/2024/Contest%20%231)
     - [Team Contest #1](https://github.com/kareem-ghazi/icpc-nmu/tree/main/2024/Team%20Contest%20%231)
     - [Contest #2](https://github.com/kareem-ghazi/icpc-nmu/tree/main/2024/Contest%20%232)
